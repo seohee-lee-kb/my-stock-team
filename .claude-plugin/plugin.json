@@ -1,0 +1,17 @@
+{
+  "name": "my-stock-team",
+  "version": "1.0.0",
+  "description": "역할별 애널리스트 서브에이전트(펀더멘털·기술·뉴스심리·리스크·검증)와 리포트 PPTX/PDF 생성 스킬로 한국 주식 리서치를 협업 생성합니다. 가치·펀더멘털 중심, 학습용.",
+  "author": {
+    "name": "stock-team"
+  },
+  "keywords": [
+    "stock",
+    "research",
+    "korean-equity",
+    "dart",
+    "report",
+    "pptx"
+  ],
+  "license": "MIT"
+}

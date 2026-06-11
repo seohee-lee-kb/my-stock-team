@@ -1,0 +1,16 @@
+{
+  "name": "stock-team-marketplace",
+  "owner": {
+    "name": "stock-team"
+  },
+  "description": "한국 주식 리서치 협업 에이전트 팀 + 리포트 생성 스킬 배포 카탈로그",
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "description": "애널리스트 서브에이전트 5종 + report-pptx 스킬 + 리포트 생성 커맨드. DART/FinanceDataReader/pykrx/웹서치 기반, 가치·펀더멘털 중심 학습용 리서치.",
+      "version": "1.0.0",
+      "category": "research"
+    }
+  ]
+}

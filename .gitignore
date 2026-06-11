@@ -1,0 +1,25 @@
+# 비밀값 — 절대 커밋 금지
+.env
+.env.*
+!.env.example
+*.key
+*_secret*
+*secret*.json
+credentials*.json
+
+# 파이썬 캐시/빌드
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 생성 산출물(리포트) — 실습용 더미라 굳이 올리지 않음
+reports/*.pptx
+reports/*.pdf
+
+# OS/에디터
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
